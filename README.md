@@ -6,8 +6,8 @@
 
 **[Download the latest version](https://github.com/code-Baruch/noleon-releases/releases/latest)** (Windows 10 1809+ or Windows 11, 64-bit, about 78 MB)
 
+<img width="800" height="450" alt="Image" src="https://github.com/user-attachments/assets/7413d44f-4ccc-4b95-8eda-b233e0330d35" />
 <img src="https://github.com/user-attachments/assets/048df844-ca37-48ec-b286-90ac94865882" alt="Software Screenshot" width="100%" />
-<img src="https://github.com/user-attachments/assets/e678104a-114e-4976-be8d-4cd1cf6f" alt="Demo GIF" width="100%" />
 <img src="https://github.com/user-attachments/assets/bbf54c83-4025-4a84-a9ef-ae9c367a69c6" alt="Chat Screenshot" width="100%" />
 
 ## Why it exists
